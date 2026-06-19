@@ -1,11 +1,10 @@
-# Astronomical Image Processing and Photometry
+# Photometry of the Open Star Cluster NGC 6811
 
 This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of an open star cluster.
 
 ## Project overview
 
-The project involved processing astronomical image data, creating calibrated image stacks, performing photometry, and producing colour-magnitude diagrams. The workflow used Siril for astronomical image processing and Python for data analysis and plotting.
-
+This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of the open star cluster NGC 6811.
 ## Repository structure
 
 - `report/` – final project report in PDF format
