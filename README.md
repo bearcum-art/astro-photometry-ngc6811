@@ -11,7 +11,6 @@ This repository contains selected code, figures and documentation from an astron
 - `src/` – Python scripts used for calibration, photometry and plotting
 - `figures/` – selected output figures
 - `processed_data/` – selected processed CSV files used for plots and summaries
-- `data/` – notes on data availability
 
 ## Tools used
 
