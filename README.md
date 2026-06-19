@@ -4,7 +4,7 @@ This repository contains selected code, figures and documentation from an astron
 
 ## Project overview
 
-This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of the open star cluster NGC 6811.
+This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of the open star cluster NGC 6811. The full English project report is available in [`report/Astronomija_1__English_.pdf`](report/Astronomija_1__English_.pdf).
 ## Repository structure
 
 - `report/` – final project report in PDF format
