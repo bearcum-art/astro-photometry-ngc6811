@@ -1,10 +1,10 @@
 # Photometry of the Open Star Cluster NGC 6811
 
-This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of an open star cluster.
-
 ## Project overview
 
-This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of the open star cluster NGC 6811. The full English project report is available in [`report/Astronomija_1__English_.pdf`](report/Astronomija_1__English_.pdf).
+This repository contains selected code, figures and documentation from an astronomy project focused on image processing and photometric analysis of the open star cluster NGC 6811.
+
+The full English project report is available in [`report/Astronomija_1__English_.pdf`](report/Astronomija_1__English_.pdf).
 ## Repository structure
 
 - `report/` – final project report in PDF format
@@ -24,6 +24,8 @@ This repository contains selected code, figures and documentation from an astron
 
 Large raw and intermediate FITS files are not included in this repository because of file size. The repository contains selected processed CSV files, final figures, Python scripts and the project report needed to document the analysis workflow.
 
+## Tools used
+Python dependencies are listed in `requirements.txt`.
 ## Author
 
 Jaka Lopez Vernig  
